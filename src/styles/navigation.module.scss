@@ -1,6 +1,16 @@
 .div {
   color: grey;
-  width: 200px;
-  height: 400px;
-  background-color: aqua;
+  width: auto;
+  height: auto;
+  background-color: gray;
+
+  ul{
+    display: inline-flex;
+    list-style: none;
+    
+    li{
+      padding: 8px 30px;
+    }
+  }
 }
+

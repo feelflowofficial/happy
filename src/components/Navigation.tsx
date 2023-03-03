@@ -12,7 +12,7 @@ export default function Navigation() {
           <Link href="/login">Login</Link>
         </li>
         <li>
-          <Link href="/logout">Logout</Link>
+          <Link href="/signup">SignUp</Link>
         </li>
       </ul>
     </div>
